@@ -1,2 +1,2 @@
 # Applied_ML
-#Projects for Applied Machine Learning Course
+Projects for Applied Machine Learning Course
